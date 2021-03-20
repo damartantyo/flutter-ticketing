@@ -1,0 +1,29 @@
+{
+  "name": "nobars",
+  "version": "1.0.0",
+  "description": "A backend service for nobars mobile app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cantdocpp/flutter-ticketing.git"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "mongoose",
+    "javascript"
+  ],
+  "author": "cantdocpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cantdocpp/flutter-ticketing/issues"
+  },
+  "homepage": "https://github.com/cantdocpp/flutter-ticketing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
